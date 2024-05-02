@@ -26,6 +26,15 @@ Con este diagrama de estados se procede a sacar las tablas de estados, y las ecu
 
 El codigo se divide en 3 modulos, [FSM_Top.sv](Vivado/SegundoParcial.srcs/sources_1/new/FSM_Top.sv) , [My_clk.sv](Vivado/SegundoParcial.srcs/sources_1/new/My_clk.sv), [FSM_Semaforo](Vivado/SegundoParcial.srcs/sources_1/new/FSM_Semaforo.sv)
 
+### FSM_Top:
+En este mandamos a llamar las funciones de clck_psc y FSM_Semaforo como instancias. En este también tenemos declaradas las entradas y salidas, tenemos los switches del 0 al 5 como entradas y los leds del 0 al 10 como salidas. 
+
+### My_CLK:
+En este programa lo que hacemos es aprovechar el pulso de el reloj de 100Mhz que tenemos en la basys 3 para crear un programa que haga gastar recursos lo que hace que se cree un delay.
+
+### FSM_Semaforo:
+n este se describe el funcionamiento de la maquina de estados finitos, donde se representan todas las entradas y cada una de las salidas de los semáforos, también podemos ver las etapas de la maquina de estados como el next state logic, state register y el output logic.
+
 ## Resutados
 
 

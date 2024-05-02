@@ -16,8 +16,11 @@ Con este diagrama de estados se procede a sacar las tablas de estados, y las ecu
 
 ![alt text](Imagenes/Tabla_Out.png), ![alt text](Imagenes/Ecuaciones_Output.png)
 
-## Tablas de 
-## discusion/análisis 
+>si se desea ver estas tablas, puede descargar el archvio de [Tablas de estados](Documentos/Tablas%20de%20estados.xlsx)
+>si es necesario tambien se provee una simulacion en logisim en el archivo [Simulacion](Documentos/Simulacion.circ)
+
+## Código Vivado
+
 
 ## Resutados
 

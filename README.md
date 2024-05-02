@@ -20,6 +20,10 @@ Con este diagrama de estados se procede a sacar las tablas de estados, y las ecu
 >si es necesario tambien se provee una simulacion en logisim en el archivo [Simulacion](Documentos/Simulacion.circ)
 
 ## Código Vivado
+>Todos los archivos de Vivado se encuentran en la carpeta [Vivado](Vivado/)
+>esta carpeta se puede descargar y ejecutar el archivo de [SegundoParcial.xpr](Vivado/SegundoParcial.xpr) y se tendra
+>el proyecto en vivado.
+
 
 
 ## Resutados

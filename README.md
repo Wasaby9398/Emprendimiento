@@ -10,6 +10,13 @@ La funcion extra cosnta en, un botón para cruce peatonal, el cual consiste en s
 
 ![alt text](Imagenes/image-3.png)
 
+Con este diagrama de estados se procede a sacar las tablas de estados, y las ecuaciones resultantes:
+
+![alt text](Imagenes/Tabla_de_Entradas.png), ![alt text](Imagenes/Ecuaciones_NextState.png)
+
+![alt text](Imagenes/Tabla_Out.png), ![alt text](Imagenes/Ecuaciones_Output.png)
+
+## Tablas de 
 ## discusion/análisis 
 
 ## Resutados

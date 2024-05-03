@@ -37,6 +37,7 @@ En este programa lo que hacemos es aprovechar el pulso de el reloj de 100Mhz que
 n este se describe el funcionamiento de la maquina de estados finitos, donde se representan todas las entradas y cada una de las salidas de los semáforos, también podemos ver las etapas de la maquina de estados como el next state logic, state register y el output logic.
 
 ## Pasos develpment Flow
+>Si se desea ver esta parte en formato de PDF puede encontrarlo en la carpeta Documentos como: [Pasos Development Flow](Documentos/Pasos%20Development%20Flow.pdf)
 
 ### 1 RTL Analisis
 
@@ -89,9 +90,18 @@ Si nos acercamos aún más podemos ver los componentes de los slice que se está
 
 Por último, podemos seleccionar los componentes y ver sus conexiones.
 ![Imp_4](Imagenes/Imp_4.png)
+
 ![Imp_5](Imagenes/Imp_5.png)
 
 ### 5 Program and Debug
 ![P&D](Imagenes/P&D.png)
 
 Por último, en este apartado lo que hacemos es generar un bitstream que configura las celdas lógicas y los switches programables, genera acorde al netlist final, luego de generarlo y conectar la basys3 podemos cargar y descargar hacia el FPGA utilizando diversos métodos.
+
+## Discusión y análisis de resultados
+El examen ha cumplido de manera satisfactoria con su propósito al permitir que el alumno demuestren competencia en el diseño e implementación de máquinas de estados finitos. Esta evaluación ha brindado a el estudiante la oportunidad de aplicar los conceptos aprendidos en clase para desarrollar una máquina de estados finitos funcional, así como para implementarla utilizando Verilog y la placa Basys3. Esta implementación práctica en hardware proporciona una validación tangible de los conocimientos adquiridos, permitiendo a el alumno observar directamente el comportamiento de la máquina de estados finitos en un entorno físico. En resumen, el examen ha sido efectivo en su enfoque pedagógico al fomentar la comprensión y aplicación de conceptos clave relacionados con las máquinas de estados finitos.
+
+# Video de Youtube 
+En el siguiente link se puede encontrar el video de youtube del parcial 2.
+
+## [Segundo Parcial](https://youtu.be/xyOTxmyEeUI)

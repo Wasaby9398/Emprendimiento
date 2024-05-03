@@ -68,7 +68,7 @@ Al realizar la synthesis podemos ver si nuestro dispositivo es capaz de poder re
 ![Synthesis_1](Imagenes/Synthesis_1.png)
 
 Si hacemos zoom a estos componentes marcados podemos ver conectividad y de que se trata.
-![Synthesis_2](Imagenes/Synthesis_2.png) ![Synthesis_3](Imagenes/Synthesis_3.png)
+![Synthesis_2](Imagenes/Synthesis_2.png)   ![Synthesis_3](Imagenes/Synthesis_3.png)
 
 También lo que podemos observar es el esquemático con los componentes que se usaran de nuestra placa basys3, podemos ver que LUTs se vana utilizar y que otros componentes son los que se usaran para realizar los semáforos.
 

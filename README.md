@@ -34,7 +34,7 @@ En este mandamos a llamar las funciones de clck_psc y FSM_Semaforo como instanci
 En este programa lo que hacemos es aprovechar el pulso de el reloj de 100Mhz que tenemos en la basys 3 para crear un programa que haga gastar recursos lo que hace que se cree un delay.
 
 ### FSM_Semaforo:
-n este se describe el funcionamiento de la maquina de estados finitos, donde se representan todas las entradas y cada una de las salidas de los semáforos, también podemos ver las etapas de la maquina de estados como el next state logic, state register y el output logic.
+En este se describe el funcionamiento de la maquina de estados finitos, donde se representan todas las entradas y cada una de las salidas de los semáforos, también podemos ver las etapas de la maquina de estados como el next state logic, state register y el output logic.
 
 ## Pasos develpment Flow
 >Si se desea ver esta parte en formato de PDF puede encontrarlo en la carpeta Documentos como: [Pasos Development Flow](Documentos/Pasos%20Development%20Flow.pdf)
